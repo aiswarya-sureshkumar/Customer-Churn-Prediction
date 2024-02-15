@@ -1,2 +1,2 @@
 # Customer Churn Prediction using FNN
-The historical data about customers are used to predict which customers are likely to stop using the service, through modelling and prediction using Feed Forward Neural Network.
+The main objective of this project is to develop a robust predictive model using Feed Forward Neural Network (FNN), that can accurately identify customers at risk of churn by utilizing a dataset containing historical customer information.
